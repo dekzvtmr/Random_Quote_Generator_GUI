@@ -25,7 +25,7 @@
 ## Как запустить
 
 ```bash
-git clone https://github.com/dekzvtmr/Random_Quote_Generator_GUI.git
+git clone https://github.com/dekzvtmr/Random_Quote_Generator_GUI
 cd Random_Quote_Generator_GUI
 python quote_generator.py
 ```

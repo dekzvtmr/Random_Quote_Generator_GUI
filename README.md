@@ -1,1 +1,1 @@
-# Random_Quote_Generator_GUI
+# Итоговая аттестация
